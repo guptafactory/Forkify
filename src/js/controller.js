@@ -10,7 +10,6 @@ import paginationView from './views/paginationView.js';
 import bookmarksView from './views/bookmarksView.js';
 import addRecipeView from './views/addRecipeView.js';
 import { MODAL_CLOSE_SEC, RE_RENDER_MODAL_SEC } from './config.js';
-
 ///////////////////////////////////////
 
 const controlRecipe = async function () {
